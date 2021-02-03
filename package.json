@@ -58,7 +58,7 @@
     "webpack-cli": "^3.3.12"
   },
   "peerDependencies": {
-    "react": "^16.13.1"
+    "react": "17.x"
   },
   "engines": {
     "node": ">=8.0.0",
